@@ -1,0 +1,310 @@
+IP                   : 103.142.170.98
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/25.0 Chrome/121.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 103.142.170.102
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/25.0 Chrome/121.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 103.145.208.7
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Dinajpur, Bangladesh, Asia
+GeoLocation(lat, lon): 25.6216468, 88.6354249
+Currency             : Bangladeshi Taka
+
+IP                   : 103.145.208.7
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Dinajpur, Bangladesh, Asia
+GeoLocation(lat, lon): 25.6216468, 88.6354249
+Currency             : Bangladeshi Taka
+
+IP                   : 103.230.105.45
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Rajshahi, Bangladesh, Asia
+GeoLocation(lat, lon): 24.3635886, 88.6241351
+Currency             : Bangladeshi Taka
+
+IP                   : 202.134.10.142
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/459.0.0.27.109;FBBV/601323656;FBDV/iPhone16,2;FBMD/iPhone;FBSN/iOS;FBSV/17.5.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 202.134.10.142
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/459.0.0.27.109;FBBV/601323656;FBDV/iPhone16,2;FBMD/iPhone;FBSN/iOS;FBSV/17.5.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 202.134.10.142
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 202.134.10.142
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/459.0.0.27.109;FBBV/601323656;FBDV/iPhone16,2;FBMD/iPhone;FBSN/iOS;FBSV/17.5.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 202.134.10.142
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 173.252.87.4
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Sterling, United States, North America
+GeoLocation(lat, lon): 39.0066993, -77.4291298
+Currency             : US Dollar
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/459.0.0.27.109;FBBV/601323656;FBDV/iPhone11,8;FBMD/iPhone;FBSN/iOS;FBSV/17.5.1;FBSS/2;FBCR/;FBID/phone;FBLC/en_GB;FBOP/80]
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 202.134.10.131
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Mirzapur, Bangladesh, Asia
+GeoLocation(lat, lon): 24.1052534, 90.1050557
+Currency             : Bangladeshi Taka
+
+IP                   : 2a03:2880:10ff:e::face:b00c
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Washington, United States, North America
+GeoLocation(lat, lon): 38.9071923, -77.0368707
+Currency             : US Dollar
+
+IP                   : 202.134.10.131
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.22.23.5 i
+Version              : 
+Browser              : Unknown Browser
+Location             : Mirzapur, Bangladesh, Asia
+GeoLocation(lat, lon): 24.1052534, 90.1050557
+Currency             : Bangladeshi Taka
+
+IP                   : 202.134.10.131
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Mirzapur, Bangladesh, Asia
+GeoLocation(lat, lon): 24.1052534, 90.1050557
+Currency             : Bangladeshi Taka
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.22.23.5 i
+Version              : 
+Browser              : Unknown Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 202.134.10.131
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.22.23.5 i
+Version              : 
+Browser              : Unknown Browser
+Location             : Mirzapur, Bangladesh, Asia
+GeoLocation(lat, lon): 24.1052534, 90.1050557
+Currency             : Bangladeshi Taka
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.22.23.5 i
+Version              : 
+Browser              : Unknown Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 106.0.54.76
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.180 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/459.1.0.57.108;]
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 2404:1c40:9f:ff92:3463:deff:fe58:680b
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 14; 23129RAA4G Build/UKQ1.231207.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.179 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/459.1.0.57.108;]
+Version              : 14;
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 103.153.66.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 11; ONEPLUS A6000 Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.180 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/458.0.0.54.108;]
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 103.153.66.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 11; ONEPLUS A6000 Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.180 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/458.0.0.54.108;]
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 2a03:2880:ff:4::face:b00c
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Washington, United States, North America
+GeoLocation(lat, lon): 38.9071923, -77.0368707
+Currency             : US Dollar
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+Version              : Mac
+Browser              : Safari
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.22.23.5 i
+Version              : 
+Browser              : Unknown Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
+IP                   : 123.253.215.206
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/459.0.0.27.109;FBBV/601323656;FBDV/iPhone11,8;FBMD/iPhone;FBSN/iOS;FBSV/17.5.1;FBSS/2;FBCR/;FBID/phone;FBLC/en_GB;FBOP/80]
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Dhaka, Bangladesh, Asia
+GeoLocation(lat, lon): 23.810332, 90.4125181
+Currency             : Bangladeshi Taka
+
